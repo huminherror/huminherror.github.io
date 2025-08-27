@@ -22,14 +22,14 @@ repository               : "huminherror/huminherror.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.JPG"
   name             : "Minh Tu"
   pronouns         :  "she/her"  
-  bio              : "scientist of sorts"
+  bio              : "scientist of sorts, stanford alum"
   location         : "Earth"
   employer         : "Louisiana State University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "mtu3@lsu.edu" 
 
   # Academic websites
   academia         : # URL
